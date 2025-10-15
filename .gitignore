@@ -1,0 +1,37 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Azure Functions artifacts
+bin
+obj
+appsettings.json
+local.settings.json
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# Azure Functions Core Tools
+.vscode/
+
+# Build output
+dist/
+__azurite_db*__.json
+__blobstorage__
+__queuestorage__
