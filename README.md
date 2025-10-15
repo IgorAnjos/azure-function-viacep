@@ -6,6 +6,8 @@ Azure Function para consultar CEP (Código de Endereçamento Postal) brasileiro 
 
 Esta Azure Function permite consultar informações de endereço a partir de um CEP brasileiro. A função utiliza a API pública [ViaCEP](https://viacep.com.br/) para obter dados como logradouro, bairro, cidade, estado, entre outros.
 
+> 🚀 **Novo aqui?** Veja o [Guia Rápido (QUICKSTART.md)](./QUICKSTART.md) para começar em 5 minutos!
+
 ## 🚀 Funcionalidades
 
 - Consulta de CEP brasileiro (8 dígitos)
